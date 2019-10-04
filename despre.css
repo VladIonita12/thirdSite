@@ -1,0 +1,66 @@
+.prim {
+  background: -webkit-linear-gradient(left, #e600e6, blue);
+  -webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+text-align: center-right;
+size: 80px;
+font-family: Monospace;
+}
+.prim1 {
+  text-align: left;
+  size: 70px;
+  font-family: sans-serif;
+  color:#9933ff;
+  }
+  .prima{
+    background: -webkit-linear-gradient(left, #e600e6, blue);
+    -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center-right;
+  size: 80px;
+  font-family: Monospace;
+  }
+  .all {
+     background: linear-gradient(#cc99ff, #b3b3ff);
+     padding:30px;
+     margin-top: -10px;
+     margin-left: -10px;
+     margin-right: -10px;
+
+  }
+
+
+.selected, a{
+  text-decoration: none;
+  background: -webkit-linear-gradient(right, #b366ff, #8a00e6);
+  -webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+  margin-left: 20px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+  color:#ddd;background-color:#585858 ;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+
+  display: block;
+color:#ddd;background-color:#585858 ;
+  text-decoration: none;
+  text-align: center;
+  padding-top:10px;
+
+
+}
+#method1 {
+      background: -webkit-linear-gradient(left, #e600e6, blue);
+      -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
